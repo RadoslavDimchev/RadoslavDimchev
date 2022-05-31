@@ -9,6 +9,4 @@ I am keen at programming and I am currently learning **JavaScript!** :smiley:
 
 ### Connect with me
 
-| <p><a href=https://www.linkedin.com/in/radoslav-dimchev-408698239/> <img height="50em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/<p
-<p><a href=https://www.linkedin.com/in/radoslav-dimchev-408698239/> <img height="50em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/<p 
-| ------------- | ------------- |
+<p><a href=https://www.linkedin.com/in/radoslav-dimchev-408698239/> <img height="50em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/>
