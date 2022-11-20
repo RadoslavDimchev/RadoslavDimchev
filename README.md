@@ -1,7 +1,7 @@
 # Hi, my name is Radoslav! 👋
 
 - I am keen at programming! :smiley:
-- I am urrently learning everything! :rofl:
+- I am currently learning everything! :rofl:
 
 ## Github Stats
 
