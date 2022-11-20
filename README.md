@@ -1,6 +1,7 @@
 ### Hi, I am Radoslav Dimchev! 👋
 
-I am keen at programming and I am currently learning **JavaScript!** :smiley:
+- I'm keen at programming! :smiley:
+- Currently learning everything! :rofl:
 
 ### Github Stats
 
@@ -8,5 +9,4 @@ I am keen at programming and I am currently learning **JavaScript!** :smiley:
 | ------------- | ------------- |
 
 ### Connect with me
-
-<p><a href=https://www.linkedin.com/in/radoslav-dimchev-408698239/> <img height="50em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/>
+ <a href=https://www.linkedin.com/in/radoslav-dimchev-408698239/> <img height="40em" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" /><a/>
